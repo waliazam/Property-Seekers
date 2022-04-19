@@ -1,0 +1,173 @@
+p, h1,h2,h3,h4,h5,h6, span, q, thead, th, td, table, a , input, label, form, html, body{
+       font-family: 'Montserrat', sans-serif;
+    }
+
+.detail-image{
+	margin-bottom: 10px !important;
+}
+#dashboard{
+	height: 100%;
+}
+.bg-layer{
+	/*background-color: #343a406e;*/
+	padding-top: 60px;
+	/*padding-bottom: 247px;*/
+}
+
+#dashboard h2{
+	font-weight: 400;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	text-transform: uppercase;
+	letter-spacing: 0.9px;
+}
+
+#dashboard p{
+	text-align: center;
+	color: white;
+	font-size: 18px;
+	letter-spacing: 0.7px;
+}
+
+#dashboard hr{
+	text-align: center;
+	color: white;
+	font-size: 18px;
+	letter-spacing: 0.7px;
+	border: 1px solid white;
+	width: 30%;
+}
+#header{
+	background: #fff;
+	box-shadow: 1px 5px 3px #eee;
+	height: 80px;
+	line-height: 45px;
+}
+.navbar-collapse{
+	z-index: 2 !important;
+	background-color: white;
+	/*padding: 15px;*/
+}
+#header .container{
+	background: #fff;
+}
+@media (max-width: 1200px) {
+  #header img{
+	width: 180px !important;
+}
+#heaser .navbar-collapse{
+	padding-left: 20px;
+}
+}
+
+#main-form .house-form{
+	padding: 30px 10px;
+}
+.left-panel{
+	background: #eee;
+}
+
+#main-form{
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+#main-form .container{
+	background-color: #f9f9f9 !important;
+	border-radius: 10px;
+}
+
+#main-form input, form-row, label{
+	margin-top: 10px;
+}
+#main-form .form-row{
+	margin-top: 20px;
+}
+#main-form button{
+	margin-top: 50px;
+}
+
+#login-form{
+	padding-top: 176px;
+	padding-bottom: 176px;
+	background-image: url('images/login.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100%;
+}
+#login-form .login-form{
+	background: #f9f9f9;
+	padding: 40px;
+	border-radius: 10px;
+	box-shadow: 0px 10px 13px #262726;
+}
+.login-form img{
+	display: table-cell;
+	padding-bottom: 30px;
+	margin:0 auto;
+	width: 80%;
+}
+.login-form button{
+	margin-top: 30px;
+
+}
+
+
+#userform .user-form{
+	background: #f9f9f9;
+	padding: 40px;
+	border-radius: 10px;
+	box-shadow: 0px 2px 5px #9f9f9f;
+	margin-top: 50px;
+}
+
+#all-listing{
+	padding-top: 60px;
+	overflow-x: scroll;
+}
+
+#all-users{
+	padding-top: 60px;
+}
+
+#main-form .input-group-prepend {
+    margin-right: -1px;
+    height: 38px !important;
+    margin-top: 10px;
+}
+
+.catagory{
+	text-align: center;
+	background: #1e2570;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 40px;
+	box-shadow: 0 7px 12px #847d7d;
+}
+.catagory .catagory-heading h2{
+	font-size: 24px !important;
+}
+
+.catagory .catagory-total h3{
+	font-size: 24px !important;
+	color: white;
+}
+.catagory .fa{
+	font-size: 60px;
+	color: white;
+	margin-bottom: 10px;
+}
+
+/*details table*/
+
+.tbl-details h4, span, th{
+	font-weight: 200;
+}
+
+
+
+
